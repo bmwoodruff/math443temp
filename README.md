@@ -9,6 +9,6 @@ $$A =
 \vdots&0&1\ddots
 \end{bmatrix}.$$
 
-$$A = \begin{bmatrix}0&0&1\\ 0&0&1\\ 1&0&1\end{bmatrix}.$$
+$$A = \begin{bmatrix}0&0&1 \\\\ 0&0&1 \\\\ 1&0&1 \end{bmatrix}.$$
 
 $A = \begin{bmatrix}0&0&1\\0&0&1\\1&0&1\end{bmatrix}.$
